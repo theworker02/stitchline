@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stitchline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stitch host/line network string helpers for config audits.",
+  "bin": {
+    "stitchline": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stitchline.git"
+  },
+  "homepage": "https://theworker02.github.io/stitchline/",
+  "keywords": [
+    "stitch",
+    "line",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
